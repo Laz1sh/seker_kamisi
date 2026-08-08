@@ -1,0 +1,10 @@
+# Egitilmis model dosyalari ve onbellek - buyuk olduklari icin surumlenmez
+sonuclar/*.joblib
+sonuclar/*.keras
+sonuclar/oznitelikler.npz
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/

@@ -1,0 +1,50 @@
+{
+  "model": "Klasik - SVM (RBF cekirdek)",
+  "dogruluk": 0.8232189973614775,
+  "makro_f1": 0.8222726832928494,
+  "sinif_bazli": {
+    "Saglikli": {
+      "precision": 0.7738095238095238,
+      "recall": 0.8227848101265823,
+      "f1-score": 0.7975460122699386,
+      "support": 79.0
+    },
+    "Mozaik": {
+      "precision": 0.8166666666666667,
+      "recall": 0.7101449275362319,
+      "f1-score": 0.7596899224806202,
+      "support": 69.0
+    },
+    "Kirmizi Curukluk": {
+      "precision": 0.7816091954022989,
+      "recall": 0.8717948717948718,
+      "f1-score": 0.8242424242424242,
+      "support": 78.0
+    },
+    "Pas": {
+      "precision": 0.8227848101265823,
+      "recall": 0.8441558441558441,
+      "f1-score": 0.8333333333333334,
+      "support": 77.0
+    },
+    "Sararma": {
+      "precision": 0.9420289855072463,
+      "recall": 0.8552631578947368,
+      "f1-score": 0.896551724137931,
+      "support": 76.0
+    },
+    "accuracy": 0.8232189973614775,
+    "macro avg": {
+      "precision": 0.8273798363024636,
+      "recall": 0.8208287223016534,
+      "f1-score": 0.8222726832928494,
+      "support": 379.0
+    },
+    "weighted avg": {
+      "precision": 0.8269000076533753,
+      "recall": 0.8232189973614775,
+      "f1-score": 0.8232724179750567,
+      "support": 379.0
+    }
+  }
+}

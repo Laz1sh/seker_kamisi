@@ -1,0 +1,50 @@
+{
+  "model": "Derin Ogrenme - MobileNetV2",
+  "dogruluk": 0.9182058047493403,
+  "makro_f1": 0.9165146660514522,
+  "sinif_bazli": {
+    "Saglikli": {
+      "precision": 0.8651685393258427,
+      "recall": 0.9746835443037974,
+      "f1-score": 0.9166666666666666,
+      "support": 79.0
+    },
+    "Mozaik": {
+      "precision": 0.9076923076923077,
+      "recall": 0.855072463768116,
+      "f1-score": 0.8805970149253731,
+      "support": 69.0
+    },
+    "Kirmizi Curukluk": {
+      "precision": 0.972972972972973,
+      "recall": 0.9230769230769231,
+      "f1-score": 0.9473684210526315,
+      "support": 78.0
+    },
+    "Pas": {
+      "precision": 0.9058823529411765,
+      "recall": 1.0,
+      "f1-score": 0.9506172839506173,
+      "support": 77.0
+    },
+    "Sararma": {
+      "precision": 0.9545454545454546,
+      "recall": 0.8289473684210527,
+      "f1-score": 0.8873239436619719,
+      "support": 76.0
+    },
+    "accuracy": 0.9182058047493403,
+    "macro avg": {
+      "precision": 0.9212523254955508,
+      "recall": 0.9163560599139778,
+      "f1-score": 0.9165146660514522,
+      "support": 379.0
+    },
+    "weighted avg": {
+      "precision": 0.9212912175496778,
+      "recall": 0.9182058047493403,
+      "f1-score": 0.917432053090053,
+      "support": 379.0
+    }
+  }
+}
